@@ -1,17 +1,3 @@
-/*
- * Student Attendance Management System
- * =====================================
- * Course   : B25CSI201 - Data Structures
- * Student  : Joy Angeline P
- * Reg. No  : 711525BCS058
- *
- * Algorithms Used:
- *   - Bubble Sort  : Sort records by Roll No (ascending)
- *   - Linear Search: Search for a student by Roll No
- *
- * Compile : gcc attendance_management.c -o attendance_management
- * Run     : ./attendance_management
- */
 
 #include <stdio.h>
 #include <string.h>
