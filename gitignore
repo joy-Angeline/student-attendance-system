@@ -1,0 +1,11 @@
+# Compiled binary
+attendance_management
+attendance_management.exe
+
+# Object files
+*.o
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
